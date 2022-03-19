@@ -1,0 +1,19 @@
+{% extends 'theme/main_template.html' %}
+
+
+{% block title %}
+
+{% endblock title %}
+
+{% block custom_css %}
+
+{% endblock custom_css %}
+
+{% block body_data %}
+
+
+{% endblock body_data %}
+
+{% block custom_js %}
+
+{% endblock custom_js %}
